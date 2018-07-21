@@ -1,6 +1,6 @@
 {
   "name": "cush-plugin-nebu",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "lib/index.js",
   "license": "MIT",
   "description": "aleclarson/nebu for cush",
