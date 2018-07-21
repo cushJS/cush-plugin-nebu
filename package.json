@@ -1,0 +1,27 @@
+{
+  "name": "cush-plugin-nebu",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "description": "aleclarson/nebu for cush",
+  "repository": "cushJS/cush-plugin-nebu",
+  "scripts": {
+    "build": "coffee-build src -o lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "dependencies": {
+    "@cush/nebu": "^1.2.0",
+    "acorn": "^5.7.1",
+    "saxon": "^0.1.1"
+  },
+  "devDependencies": {
+    "coffeelint": "^2.1.0",
+    "coffeescript": "^2.3.0",
+    "wch-coffee": "*"
+  },
+  "peerDependencies": {
+    "cush": "^0.2.0"
+  }
+}
