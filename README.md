@@ -1,4 +1,4 @@
-# cush-plugin-nebu v0.0.1
+# cush-plugin-nebu v0.1.0
 
 An alternative to [Babel][1] for plugins that transform Javascript.
 
